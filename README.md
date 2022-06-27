@@ -1,6 +1,6 @@
 ### Hi there 👋
 🌱 I’m currently learning at Tryhackme
-<script src="https://tryhackme.com/badge/1039093"></script>
+
 <!--
 **jesusgavancho/jesusgavancho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
